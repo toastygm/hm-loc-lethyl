@@ -50,7 +50,7 @@ Upper floor of the abbey:
 
 This module is made possible by the hard work of HârnWorld fans,
 and is provided at no cost. This work is an adaptation of the article
-[Lethyl]()https://www.lythia.com/harnworld/settlements/lethyl/ available
+[Lethyl](https://www.lythia.com/harnworld/settlements/lethyl/) available
 at the HârnWorld fan site [Lythia.com](https://www.lythia.com/).
 
 **Writer:** Joe Adams
