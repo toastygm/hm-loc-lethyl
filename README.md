@@ -20,13 +20,29 @@ The original maps from this work have been used as inspiration, and new maps hav
 designed specifically to meet the requirements of the VTT environment.  The following
 maps are part of this module.
 
+## Lethyl Village
+
+Map of Lethyl Village, including the central abbey.
+
 <img src="assets/scenes/lethyl-village.png" alt="Lethyl Village" width="600"/>
+
+## Dancing Trout Inn
+
+Ground floor of the Inn:
 
 <img src="assets/scenes/Dancing-Trout-Inn-Ground.webp" alt="Dancing Trout Inn Ground" width="600"/>
 
+Upper floor of the Inn:
+
 <img src="assets/scenes/Dancing-Trout-Inn-Upper.webp" alt="Dancing Trout Inn Upper" width="600"/>
 
+## Lethyl Abbey
+
+Ground floor of the abbey:
+
 <img src="assets/scenes/Lethyl-Abbey-Ground.webp" alt="Lethyl Abbey Ground" width="600"/>
+
+Upper floor of the abbey:
 
 <img src="assets/scenes/Lethyl-Abbey-Upper.webp" alt="Lethyl Abbey Upper" width="600"/>
 
