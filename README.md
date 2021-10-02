@@ -1,7 +1,5 @@
 # HârnWorld Location Module: Lethyl Abbey
 
-![Charmic Village](assets/images/charmic-village.webp)
-
 Lethyl Abbey is a "Location Module" for the [Foundry VTT](https://www.foundryvtt.com/)
 system. This location module is designed to depict the Lethyl abbey in the far north of
 the Kingdom of Kaldor, on the island of Hârn in the [HârnWorld](https://columbiagames.com/harnworld/)
@@ -22,15 +20,15 @@ The original maps from this work have been used as inspiration, and new maps hav
 designed specifically to meet the requirements of the VTT environment.  The following
 maps are part of this module.
 
-![Lethyl Village](assets/scenes/lethyl-village.png =600x)
+<img src="assets/scenes/lethyl-village.png" alt="Lethyl Village" width="600"/>
 
-![Dancing Trout Inn Ground](assets/scenes/Dancing-Trout-Inn-Ground.webp =600x)
+<img src="assets/scenes/Dancing-Trout-Inn-Ground.webp" alt="Dancing Trout Inn Ground" width="600"/>
 
-![Dancing Trout Inn Upper](assets/scenes/Dancing-Trout-Inn-Upper.webp =600x)
+<img src="assets/scenes/Dancing-Trout-Inn-Upper.webp" alt="Dancing Trout Inn Upper" width="600"/>
 
-![Lethyl Abbey Ground](assets/scenes/Lethyl-Abbey-Ground.webp =600x)
+<img src="assets/scenes/Lethyl-Abbey-Ground.webp" alt="Lethyl Abbey Ground" width="600"/>
 
-![Lethyl Abbey Upper](assets/scenes/Lethyl-Abbey-Upper.webp =600x)
+<img src="assets/scenes/Lethyl-Abbey-Upper.webp" alt="Lethyl Abbey Upper" width="600"/>
 
 # Credits
 
