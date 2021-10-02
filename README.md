@@ -22,11 +22,15 @@ The original maps from this work have been used as inspiration, and new maps hav
 designed specifically to meet the requirements of the VTT environment.  The following
 maps are part of this module.
 
-![Lethyl Village](assets/scenes/lethyl-village.png|width=600)
-![Dancing Trout Inn Ground](assets/scenes/Dancing-Trout-Inn-Ground.webp|width=600)
-![Dancing Trout Inn Upper](assets/scenes/Dancing-Trout-Inn-Upper.webp|width=600)
-![Lethyl Abbey Ground](assets/scenes/Lethyl-Abbey-Ground.webp|width=600)
-![Lethyl Abbey Upper](assets/scenes/Lethyl-Abbey-Upper.webp|width=600)
+![Lethyl Village](assets/scenes/lethyl-village.png =600x)
+
+![Dancing Trout Inn Ground](assets/scenes/Dancing-Trout-Inn-Ground.webp =600x)
+
+![Dancing Trout Inn Upper](assets/scenes/Dancing-Trout-Inn-Upper.webp =600x)
+
+![Lethyl Abbey Ground](assets/scenes/Lethyl-Abbey-Ground.webp =600x)
+
+![Lethyl Abbey Upper](assets/scenes/Lethyl-Abbey-Upper.webp =600x)
 
 # Credits
 
