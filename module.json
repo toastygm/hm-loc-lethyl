@@ -4,7 +4,7 @@
   "description": "A prosperous, if slightly rustic, Laranian abbey bordered by the dark Kirsta Forest on the northern border of Fethael Hundred",
   "version": "1.0.1",
   "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "9",
   "bugs": "https://github.com/toastygm/hm-loc-lethyl/issues",
   "license": "LICENSE",
   "readme": "README.md",
