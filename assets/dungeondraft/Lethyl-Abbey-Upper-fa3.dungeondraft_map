@@ -208,7 +208,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 6154.3, 5773.48 )",
+			"camera_position": "Vector2( 8556.3, 5789.48 )",
 			"camera_zoom": 1,
 			"guide_position": "null",
 			"trace_image": null,
@@ -315,7 +315,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[FA] Seating - Chairs"
+					"[FA] Stairs - Stone"
 				]
 			},
 			"scatter_tags_memory": {
@@ -326,9 +326,9 @@
 			},
 			"object_library_memory": {
 				"mode": "tags",
-				"scroll": 1217,
+				"scroll": 0,
 				"selected": [
-					"res://packs/FA30DD01/textures/objects/Furniture/Seating/Chairs/Chair_Wood_Light_E_1x1.webp"
+					"res://packs/FA30DD03/textures/objects/Structures/Stairs_and_Ladders/Stairs_Stone/Stairs_Stone_Earthy_Platform_E_1x1.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -347,7 +347,7 @@
 		"format": 3,
 		"width": 50,
 		"height": 35,
-		"next_node_id": "4b0",
+		"next_node_id": "4b1",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -367,7 +367,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": false,
+					"baked_lighting": true,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -4678,6 +4678,17 @@
 				],
 				"objects": [
 					{
+						"position": "Vector2( 8335.3, 5507.48 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD03/textures/objects/Structures/Stairs_and_Ladders/Stairs_Stone/Stairs_Stone_Earthy_Platform_E_1x1.webp",
+						"layer": -100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "4b0"
+					},
+					{
 						"position": "Vector2( 11317.1, 6745.48 )",
 						"rotation": 1.047198,
 						"scale": "Vector2( 1, 1 )",
@@ -7058,17 +7069,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "370"
-					},
-					{
-						"position": "Vector2( 8352, 5504 )",
-						"rotation": -1.570796,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/FA30DD03/textures/objects/Structures/Stairs_and_Ladders/Stairs_Stone/Stairs_Stone_Earthy_Platform_F_1x1.webp",
-						"layer": -100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "387"
 					},
 					{
 						"position": "Vector2( 956.318, 7374.28 )",
