@@ -1,4 +1,7 @@
 # HârnWorld Location Module: Lethyl Abbey
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-loc-lethyl)](https://github.com/toastygm/hm-loc-lethyl/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-loc-lethyl&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-loc-lethyl)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-loc-lethyl/releases/latest&color=green)](https://github.com/toastygm/hm-loc-lethyl/releases/latest)
 
 Lethyl Abbey is a "Location Module" for the [Foundry VTT](https://www.foundryvtt.com/)
 system. This location module is designed to depict the Lethyl abbey in the far north of
