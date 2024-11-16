@@ -1,0 +1,136 @@
+{
+  "name": "The Abbey",
+  "pages": [
+    {
+      "name": "The Abbey",
+      "type": "text",
+      "text": {
+        "content": "<p>The abbey sits on the northern side of the road and consists of two connected cloisters. The New Cloister houses the priests and the abbey’s guesthouse. It is the public face of the small religious community and hosts the hundred’s nobility for religious services and festivals. Visitors must enter the New Cloister’s gate on foot and leave their animals in the care of the abbey’s ostler before proceeding to the temple. Only those invited by the Serolan may pass over the short stone bridge into the Old Cloister.</p>\n<ul>\n<li>@UUID[JournalEntry.bgl64GmEBXDhypxN.JournalEntryPage.sTAnkryVCbuSWUMI]{The Old Cloister}</li>\n<li>@UUID[JournalEntry.bgl64GmEBXDhypxN.JournalEntryPage.Wcm7ZMnkdiwAvdsw]{The New Cloister}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "M41EDIJ3AlP8vKtN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bgl64GmEBXDhypxN.M41EDIJ3AlP8vKtN"
+    },
+    {
+      "name": "The New Cloister",
+      "type": "text",
+      "text": {
+        "content": "<p>Anchored by the old Infirmary, construction on the New Cloister began in 538 after the successful retrieval of Saint Syrele’s relics. Funded by generous donations from the Baron of Getha and the Earl of Neph, this cloister was meant to house the growing abbey population and a temple to commemorate the saint. The buildings have stone walls and slate shingles that were quarried near Charmic and brought to Lethyl at great cost.</p>\n<ul>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.Q6v8y2GQReF3zLjA]{[A] Chapel of St. Syrele}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.X4oiLnhueLRsLisr]{[B] Female Matakea’s Quarters}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.pYM4lto3T6sLIglZ]{[C] The Hostelry (Guest House)}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.DOlOPL9Rx45KlGkM]{[D] The Kitchens}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.yueZiWs8GkSxKe29]{[E] The Dining Hall}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.awUZAEEJxUFAdoM4]{[F] The Hospital (Mother Laerl)}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.QtWXaUbITyoGuUp1]{[G] The Hospital Staff Quarters}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.3x1hWmckYTtKKvHM]{[H] Guildsmen’s Quarters}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.wFCMqkTIe2pZE188]{[I] Male Matakea’s Quarters}</li>\n<li>@UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.KsP8P43eUSsq9ZAe]{[J] Library}</li>\n</ul>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Wcm7ZMnkdiwAvdsw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bgl64GmEBXDhypxN.Wcm7ZMnkdiwAvdsw"
+    },
+    {
+      "name": "The Old Cloister",
+      "type": "text",
+      "text": {
+        "content": "<p>The Old Cloister is the original manor’s fortified house and tower. Now used as the Serolan’s private quarters, the old manor house’s dark gray fieldstone is now mossy with age. The small temple to Saint Calsten has a two story round tower that was added in 382.</p>\n<p>The old cloister is separated from the new cloister by a gatehouse. The short stone bridge once crossed a dry moat, but this was filled in during construction of the New Cloister. The portcullis remains but hasn’t been closed in living memory. The priests refuse to remove it because it evokes Larani’s martial spirit.</p>\n<p>Inside the small quadrangle, the Serolan keeps the trappings of his nobility close at hand. A servant cares for the pack of twelve coursers that the Serolan uses for hunting. The Serolan’s three falcons are housed in the small mews sheltered atop the old gatehouse.</p>\n<ul>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.1JkkYcgw8oKeqLTS]{[K] Masters’ House}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.sZplMkLsAU7dw3mm]{[L] Temple of Calsten}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.eTUUiKD625Xgta0J]{[M] The Serolan’s Tower}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.Wm1XRwGBsLfbMXzx]{[N] The Bakehouse}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.LpRRKLpmArV67Q09]{[O] The Brewhouse}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.wT1FvZMNcqfE67OU]{[P] The Barn}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.hlVBUFB1AzKB1Hzr]{[Q] The Stables}</li>\n<li>@UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.SzqEHGkZm5Y4JhcF]{[R] The Old Gatehouse}</li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "sTAnkryVCbuSWUMI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bgl64GmEBXDhypxN.sTAnkryVCbuSWUMI"
+    },
+    {
+      "name": "Valric Belgine, Serolan of Lethyl",
+      "type": "text",
+      "text": {
+        "content": "<p>The Serolan is Reverend Father Valric Belgine. A member of minor nobility in Semethshire, he joined the church when his brothers showed no sign of either dying at a young age or sharing the family’s small holding of Barwal. He is a dogged but uninspired man. Having labored in the shadows of other men for over 20 years, he was made the Serolan of Lethyl at age 39. Now at 56, he rules the little temple with an iron fist. He has proclaimed that he will stay “at the head of Lethyl’s table until they pry my staff from my cold, dead, fingers.”</p>\n<p>In the past he has tried to exert some control over the martial chapters that are supposed to be under his control but the Rekela of Brynd, Verda Emerel, has thwarted him at every step. Valric is quietly waiting for the Rekela to die and then plans to make sure that the Reblena in “his hundred” understand their place. While the Reverend Father is in favor of the split between the Kaldoric and Melderyni branches of the Order of the Lady of Paladins, he fears that the martial order will use the schism to increase its already considerable political power.</p>\n<p>Valric Belgine is a tall, thin man who carries himself as the secular lord that he has always wanted to be. He is always dressed in the formal robes of the Serolan. Despite the fact that he is required to send one third of the abbey’s profits to the Rekela, he manages to live in comfort. He lives in the old manor tower, where he takes most of his meals. He has dinner on tenth-night with the temple’s masters and presides over a chapter meeting after every Soratir. When he is not playing the role of prince of the church, he can be found hunting with hound and hawk in the company of Sir Taryn Indama, the Bailiff of Sezaze, or Sir Udet Tardally, the lord of Denwald.</p>",
+        "format": 1
+      },
+      "_id": "k6ImkOVkgGDrAKCM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bgl64GmEBXDhypxN.k6ImkOVkgGDrAKCM"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.bgl64GmEBXDhypxN"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923382,
+    "modifiedTime": 1659205923382,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "bgl64GmEBXDhypxN",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!bgl64GmEBXDhypxN"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Abbey - Guildmen's Quarters",
+  "pages": [
+    {
+      "name": "[H1] Clothier's Workshop",
+      "type": "text",
+      "text": {
+        "content": "<p>Garal Urdel (see @UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}) weaves all of the abbey’s cloth in the workshop (@UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.HhTS17tWygQpziv0]{[H1] Clothier's Workshop}). Large looms and bolts of cloth are suspended from the ceiling and rows of colorful braid are stored in chests around the room.</p>",
+        "format": 1
+      },
+      "_id": "HhTS17tWygQpziv0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!rQqIKK8mnN4a4z1Z.HhTS17tWygQpziv0"
+    },
+    {
+      "name": "[H2] Bonded Clothier Garal Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Garal Urdel is a clothier employed by the abbey. She makes the Abbey’s religious vestments as well as the working clothes for the matakea and ashesa. Her husband, Aratha, is the abbey’s chief cook.</p>",
+        "format": 1
+      },
+      "_id": "EqwRjydH3yAAcAwg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!rQqIKK8mnN4a4z1Z.EqwRjydH3yAAcAwg"
+    },
+    {
+      "name": "[H3] Bonded Ostler Sorobin Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>The abbey’s bonded ostler, Sorobin Loyril lives here with his family. His duties are light, as he has only to care for the few horses used by the masters and the Serolan. He plans to ask the Serolan for permission to try breeding horses for sale and has already made preliminary negotiations with the ostlers in Blixth to get stock.</p>",
+        "format": 1
+      },
+      "_id": "nItOLLphp8pWPlZ4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!rQqIKK8mnN4a4z1Z.nItOLLphp8pWPlZ4"
+    },
+    {
+      "name": "[H4] Bonded Timberwright Harquey Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>The Serolan employs Harquey Berma, a bonded timberwright, to manage the woodland that belongs to the abbey. She has become very friendly with Garal and Aratha Urdel (see @UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}). She is usually found at her sawpit in the small woodlot north of the abbey or marking trees for felling with her handaxe.</p>",
+        "format": 1
+      },
+      "_id": "mtV1bbinK8NYu8CY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!rQqIKK8mnN4a4z1Z.mtV1bbinK8NYu8CY"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.rQqIKK8mnN4a4z1Z"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923403,
+    "modifiedTime": 1659205923403,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "rQqIKK8mnN4a4z1Z",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!rQqIKK8mnN4a4z1Z"
+}

@@ -1,0 +1,269 @@
+{
+  "name": "Abbey - Male Matakea’s Quarters",
+  "pages": [
+    {
+      "name": "[I1] Illuminator Father Sindren",
+      "type": "text",
+      "text": {
+        "content": "<p>Sindren and Esen (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.acyI8a5YPQMqE7It]{[I2] Calligraphist Father Esen}) are great friends. The tall, fat Sindren and the small, slight Esen often spend their spare time devising silly jokes to insert into the margins of the pages as they copy the legend of Saint Syrele. Two men are constantly in each other’s company.</p>",
+        "format": 1
+      },
+      "_id": "K5b2zx6p0UB5c0eH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.K5b2zx6p0UB5c0eH"
+    },
+    {
+      "name": "[I2] Calligraphist Father Esen",
+      "type": "text",
+      "text": {
+        "content": "<p>Esen and Sindren (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.K5b2zx6p0UB5c0eH]{[I1] Illuminator Father Sindren}) are great friends. The tall, fat Sindren and the small, slight Esen often spend their spare time devising silly jokes to insert into the margins of the pages as they copy the legend of Saint Syrele. Two men are constantly in each other’s company.</p>",
+        "format": 1
+      },
+      "_id": "acyI8a5YPQMqE7It",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.acyI8a5YPQMqE7It"
+    },
+    {
+      "name": "[I3] Librarian Father Harond",
+      "type": "text",
+      "text": {
+        "content": "<p>The librarian, Harond of Drelin, is a fully functioning alcoholic. He volunteers for the bridge toll collecting when he can but does not want to make his fondness of the inn’s ale too obvious. When he cannot manufacture a reason to leave the abbey, he can be found in the guesthouse “helping” Father Firain (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.C3RzrFBhCkws2oBM]{[I4] Host Father Firain}).</p>\n<p>Harond has a secret stash of brandy in his cell, bought from tolls he has skimmed or stores that he has stolen. Taman (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.Of8fDe15OZuKuq7B]{[I5] Precentor Father Tanam}) knows of Harond’s disease and could blackmail the fat old man, but is unwilling to use “a flawed tool.”</p>",
+        "format": 1
+      },
+      "_id": "36BWsxDDyopZ4bXG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.36BWsxDDyopZ4bXG"
+    },
+    {
+      "name": "[I4] Host Father Firain",
+      "type": "text",
+      "text": {
+        "content": "<p>Firain Tornan operates the abbey’s guesthouse. He is Harond Drelin’s (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.36BWsxDDyopZ4bXG]{[I3] Librarian Father Harond}) drinking companion and the abbey’s resident storyteller. This old priest is also the confidant and friend of all of the hundred’s nobility – much as the bartender of a popular pub might become well acquainted with his rich and famous clientele. In his youth, Firain was a chaplain with the Lady of Paladins. He served at Jenkald and later fought in the Sorkin Mountains against the gargûn. It was against the Foulspawn that he earned the scars that cover his left side, a reminder of the egg chamber that he set afire but was unable to escape from before the flames left their mark.</p>",
+        "format": 1
+      },
+      "_id": "C3RzrFBhCkws2oBM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.C3RzrFBhCkws2oBM"
+    },
+    {
+      "name": "[I5] Precentor Father Tanam",
+      "type": "text",
+      "text": {
+        "content": "<p>Tanam of Keriel, the precentor (A cleric who directs the choral services of a church), is an amoral bastard. Although begotten on the wrong side of the sheets, Tanam is tall, angelic looking, and very popular. He often solos during the Soratirs and revels in the celebrity his talents bring him. He is determined to become the Serolan one day, but his methods include bribery, blackmail, and extortion.</p>\n<p>Tanam is currently blackmailing two other members of the temple. While on watch one night, he came across two women – two unclothed women “in lustful embrace” – in the herbarium (see @UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.AYucaXi4Kgt91E19]{[B2] Herbalist} and @UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.2skrhhacueTut4tI]{[B8] Dormitory - Acolytes}). Normally he would have been satisfied with making them join his cadre of informants and moved on but, since both of these women were attractive, the chance to mix business with pleasure proved irresistible to him. Since his discovery almost three months ago, Tanam has turned the herbarium into his private pleasure palace.</p>",
+        "format": 1
+      },
+      "_id": "Of8fDe15OZuKuq7B",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.Of8fDe15OZuKuq7B"
+    },
+    {
+      "name": "[I6] Hospitaller Father Crinsa",
+      "type": "text",
+      "text": {
+        "content": "<p>Father Crinsa is the hospitaller. He has become friendly with Loran the Scholar (q.v. Ominstru) and is very interested in stories about the six saints that are patrons of the infirmary. He lives for his work and is very efficient.</p>",
+        "format": 1
+      },
+      "_id": "DEsBZ0kzKyreiTAu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.DEsBZ0kzKyreiTAu"
+    },
+    {
+      "name": "[I7] Huntsman Father Dinan",
+      "type": "text",
+      "text": {
+        "content": "<p>The Serolan uses Father Dinan of Lonan as his huntsman. Dinan is the Serolan’s devoted servant but usually acts like a hulking thug in a priest’s cassock around the other residents of the abbey. He prefers stalking game to working in the cloisters because it keeps him away from the abbey, a place where the other clerics make him feel stupid. If anyone took the time to befriend Dinan, he would prove to be staunch and loyal.</p>",
+        "format": 1
+      },
+      "_id": "hCFrJLlKB4Bvz8aN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.hCFrJLlKB4Bvz8aN"
+    },
+    {
+      "name": "[I8] Male Acolytes' Dormitory",
+      "type": "text",
+      "text": {
+        "content": "<p>This dormitory houses the male acolytes in a cramped room:</p>\n<ol style=\"list-style-type:lower-alpha\">\n<li>Kardis of Rone, a new ashesa, is tired of being picked on by the Valaran and is planning to run away. He plans to escape and walk south to the Nephen River, where he hopes to find a boat to take him out of Kaldor. He has been secreting items for his flight in the Baralis crypt (see @UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.PrsAHxyJtoX1Jxma]{[12] Village Graveyard}).</li>\n<li>Pasbain Tobris is a pale, freckle faced ashesa. He has just turned fifteen and started to pack some muscle on his weedy frame. He is secretly in love with Morvin of Korela (@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.Su9ngWcBd3WPPBZM]{[B7] Mother Morvin - Overseer}) after she spoke to him in the courtyard one day.</li>\n<li>Sildain Naldor is a thief. He is smart enough not to steal from the other ashesa but he has no compunction about stealing from the matakea or even noble guests. His quarrelsome personality has driven away anyone who might befriend him.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "4AEaz19AwYnBmtQp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.4AEaz19AwYnBmtQp"
+    },
+    {
+      "name": "[I9] Latrine",
+      "type": "text",
+      "text": {
+        "content": "<p>The male matakea's latrine.</p>",
+        "format": 1
+      },
+      "_id": "6X9HKxGPQmBqGGDm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bdtDRmVGQsY135ma.6X9HKxGPQmBqGGDm"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.bdtDRmVGQsY135ma"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923380,
+    "modifiedTime": 1659205923380,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "bdtDRmVGQsY135ma",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!bdtDRmVGQsY135ma"
+}

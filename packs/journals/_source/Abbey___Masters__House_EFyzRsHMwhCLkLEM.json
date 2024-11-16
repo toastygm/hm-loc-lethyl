@@ -1,0 +1,134 @@
+{
+  "name": "Abbey - Masters’ House",
+  "pages": [
+    {
+      "name": "[K1] Menoran (Master of the Fighting Order)",
+      "type": "text",
+      "text": {
+        "content": "<p>Master Aetral Asana is the Menoran (Master of the Fighting Order). He wants to leave sleepy little Lethyl and return to the Lady of Paladins as a chaplain. He has asked the Serolan three times to release him and is now contemplating appealing directly to the Rekela. He is a short young man who is always trying to prove himself to others. His favorite weapon is the mace.</p>",
+        "format": 1
+      },
+      "_id": "nRXlEBLxRNQ8DPVO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!EFyzRsHMwhCLkLEM.nRXlEBLxRNQ8DPVO"
+    },
+    {
+      "name": "[K2] Valaran (Mistress of Acolytes)",
+      "type": "text",
+      "text": {
+        "content": "<p>Mistress Lothor Tyune, the Valaran (Mistress of Acolytes), is a middle-aged brunette with the lithe body of a Halean priestess and the fierce temperament of a Pamesani gladiator. She is a demanding taskmaster but, underneath her steely exterior, she means well and tries to take care of her charges. She is friends with Tonin Cybrela, the Obasaran, but would never dare tempt him to break his vow of chastity.</p>",
+        "format": 1
+      },
+      "_id": "1nCrbcwtIWJJ05JU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!EFyzRsHMwhCLkLEM.1nCrbcwtIWJJ05JU"
+    },
+    {
+      "name": "[K3] Suloran (Mistress of Archives)",
+      "type": "text",
+      "text": {
+        "content": "<p>The Temple’s Suloran (Mistress of Archives), Conatar Loyrikor, is a plain brown haired woman. She speaks with a foreign accent that a well-traveled person might recognize as being faintly but distinctly from western Hârn – northern Kanday perhaps. She is conscientious and does her duty without flair but with dogged efficiency. She is something of a loner and spends hours walking in the woods or meditating in the graveyard. The other Masters ascribe her bookish attitude as typical of her solitary profession.</p>",
+        "format": 1
+      },
+      "_id": "2DigLPj3svWwW0tO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!EFyzRsHMwhCLkLEM.2DigLPj3svWwW0tO"
+    },
+    {
+      "name": "[K4] Obasaran (Secular Representative)",
+      "type": "text",
+      "text": {
+        "content": "<p>Master Tonin Cybrela is the abbey’s Obasaran. In this capacity he acts as the Serolan’s representative in meetings with the villagers and with Sir Haradoc, the Bailiff of the Hundred. Tonin is truly a worthy successor of Reverend Father Valric, as he is both a political animal and a fearsome warrior. In his personal life, Tonin is pious without being sanctimonious.</p>\n<p>His true skills have yet to be tested in Lethyl so Reverend Father Valric has nominated him for a position in the Serekela’s court. This position would both benefit a loyal subordinate and give the abbey a valuable ally in a place of power.</p>",
+        "format": 1
+      },
+      "_id": "2blx8dFSuZi6b91B",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!EFyzRsHMwhCLkLEM.2blx8dFSuZi6b91B"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.EFyzRsHMwhCLkLEM"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923353,
+    "modifiedTime": 1659205923353,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "EFyzRsHMwhCLkLEM",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!EFyzRsHMwhCLkLEM"
+}

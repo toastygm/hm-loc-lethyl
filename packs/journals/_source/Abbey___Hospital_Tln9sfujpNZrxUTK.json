@@ -1,0 +1,80 @@
+{
+  "name": "Abbey - Hospital",
+  "pages": [
+    {
+      "name": "[F1] The Herbarium",
+      "type": "text",
+      "text": {
+        "content": "<p>The herbarium is where Mother Laerl (@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.AYucaXi4Kgt91E19]{[B2] Herbalist}) prepares medicines for the abbey. She grows her herbs in a small, orderly garden north of the cloister or collects them in the forest. She brings them to her workshop to make potions and elixirs. While not a specialist in the healing arts, she can prescribe herbal cures for most common maladies.</p>",
+        "format": 1
+      },
+      "_id": "RfhWROdDPLGHIRTq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Tln9sfujpNZrxUTK.RfhWROdDPLGHIRTq"
+    },
+    {
+      "name": "[F2] The Infirmary",
+      "type": "text",
+      "text": {
+        "content": "<p>Lethyl Abbey’s infirmary was constructed in 194 and was originally outside of the cloister. Sir Ebryn Kobarney, ancestor of the present lord of Hyzevel, founded the infirmary and the Kobarney clan has been instrumental in providing funds for its upkeep. The infirmary is dedicated to the six knights who commanded parts of King Medrik’s army at the Battle of Noneth. Locally revered as saints, these men are credited with ending the Migration War in the east and laying the foundation for the kingdom of Kaldor. The walls of the infirmary are covered with murals that celebrate their deeds.</p>\n<p>The hospital cares for wounded and aging Laranians and the occasional traveler. Pilgrims that fall afoul of the dangers of the road are given shelter here until they can continue. Patients of the Peonian faith are given initial care here but are helped to Getha so that they can continue treatment in the Peonian hospital.</p>\n<p>Despite the Kobarney clan’s generous and continuous support over the last several hundred years, the hospital is starting to show its age. Father Crinsa (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.DEsBZ0kzKyreiTAu]{[I6] Hospitaller Father Crinsa}), the hospitaller, makes sure that any common-born patient that can work does so. He is also tireless in his quest for donations to the hospital, although most of the funds donated by the pilgrims go toward the upkeep of the abbey’s two temples.</p>\n<p>Wooden screens divide the long open hall. A small shrine to the White Lady stands at the southern end of the sick ward. The infirmary has never been full and the patients benefit from full measures of care from Brother Jerrin and Brother Merryn (see @UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.HFI3hpel7dXuGaAJ]{[G7] Veniken Jerrin} and @UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.TcT3KzsQEQycY0kB]{[G8] Veniken Merryn}). Father Crisan (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.DEsBZ0kzKyreiTAu]{[I6] Hospitaller Father Crinsa}) can be found here during the day, dispensing medicines.</p>\n<ol style=\"list-style-type:lower-alpha\">\n<li>Tradigan is a rich old farmer from Elmeze. He constantly changes his will in an attempt to keep his family's attention. Tradigan wants to return to his home but his Balimshire cousins have conspired to keep him at Lethyl “for his own good” or until they know what they’ll inherit.</li>\n<li>\n<p>A yeoman from Denwald occupies this bed. Perig Ailt was hunting in the forest with his father when he was attacked and mauled by a large wolf. Perig’s father and brother managed to drive the beast off, but he lay near death from loss of blood. The family despaired and brought him to the Abbey for care two ten-days ago. Within days Perig’s condition improved dramatically and his parents hope to bring him back to Denwald after the next Soratir.</p>\n<p>What no one realizes is that Perig’s attacker was a werewolf. The vile curse of lycanthropy has entered his blood stream and, with the coming of the full moon, his recovery is a side effect of the curse energizing his body in preparation for the foul change.</p>\n</li>\n<li>Petros Arandin is dying by inches. His family brought him here from Hyzevel over three months ago. Neither Father Crisan nor the physician from Getha can determine the cause of his malady.</li>\n<li>Bandits wounded Galswinth Sarebor as she traveled the Silver Way from Nenda to Getha for the Spring Fair last year. Her broken body has healed slowly and Father Crisan fears that this poor lady will live out her days in pain.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "LvuXmWPtXkfpok9F",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Tln9sfujpNZrxUTK.LvuXmWPtXkfpok9F"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.Tln9sfujpNZrxUTK"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923376,
+    "modifiedTime": 1659205923376,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Tln9sfujpNZrxUTK",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Tln9sfujpNZrxUTK"
+}

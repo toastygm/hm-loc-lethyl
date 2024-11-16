@@ -1,0 +1,346 @@
+{
+  "name": "Dancing Trout Inn",
+  "pages": [
+    {
+      "name": "[1] Common Area/Tap Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Locals and travellers enjoy the Inn's exceptional food and spirits.</p>",
+        "format": 1
+      },
+      "_id": "HvozFDqvGPzVKNs1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.HvozFDqvGPzVKNs1"
+    },
+    {
+      "name": "[2] Nobles’ Bar",
+      "type": "text",
+      "text": {
+        "content": "<p>Jurlis usually keeps this room locked but uses it during festivals for special parties. Squires of visiting noblemen or less wealthy nobles themselves often sleep here.</p>",
+        "format": 1
+      },
+      "_id": "7Pusi1QkZfHlVyg5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.7Pusi1QkZfHlVyg5"
+    },
+    {
+      "name": "[3] Private Snug",
+      "type": "text",
+      "text": {
+        "content": "<p>This snug is for private parties or special events. At night, guests’ servants sleep here</p>",
+        "format": 1
+      },
+      "_id": "TrZJkLcAWk0Piox3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.TrZJkLcAWk0Piox3"
+    },
+    {
+      "name": "[4] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The inn’s staff sleeps here</p>",
+        "format": 1
+      },
+      "_id": "lNz1yXvFvbitj8G9",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.lNz1yXvFvbitj8G9"
+    },
+    {
+      "name": "[5] Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>Jurlis’ eldest son, Irkel (age 16) cares for the guests’ animals.</p>",
+        "format": 1
+      },
+      "_id": "4euCIwJn12GT2Sso",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.4euCIwJn12GT2Sso"
+    },
+    {
+      "name": "[6] Dormitory",
+      "type": "text",
+      "text": {
+        "content": "<p>Jurlis changes the straw in the dormitory once a month or before major festivals. Rena spreads sweet smelling flowers in the straw.</p>",
+        "format": 1
+      },
+      "_id": "Q9E3Lb5IsYNaF1RV",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.Q9E3Lb5IsYNaF1RV"
+    },
+    {
+      "name": "[7] Guest Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Nobility stay in this room during festivals despite the rather expensive rent. The alternative is sleeping in a tent on the green.</p>",
+        "format": 1
+      },
+      "_id": "pMLu3JXCSPmFDXm0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.pMLu3JXCSPmFDXm0"
+    },
+    {
+      "name": "[8] Guest Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Nobility stay in this room during festivals despite the rather expensive rent. The alternative is sleeping in a tent on the green.</p>",
+        "format": 1
+      },
+      "_id": "NXCqZF06hKVMqGRO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.NXCqZF06hKVMqGRO"
+    },
+    {
+      "name": "[9] Guest Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Nobility stay in this room during festivals despite the rather expensive rent. The alternative is sleeping in a tent on the green.</p>",
+        "format": 1
+      },
+      "_id": "HtbduB6y8cBJc3TZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.HtbduB6y8cBJc3TZ"
+    },
+    {
+      "name": "[10] Family Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Jurlis Haral’s family helps him operate the inn. He works in the taproom while his wife, Rena, and his twin daughters Morissa and Synë (age 12), work in the kitchen. The family vacates these rooms for the paying guests during festivals. At these times, the family sleeps in the kitchen with the rest of the staff.</p>\n<p>Loran the Southron (see abbey @UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.KsP8P43eUSsq9ZAe]{[J] Library}) prefers this room when he is visiting the abbey but he is careful to avoid visiting during festivals or Soratir.</p>",
+        "format": 1
+      },
+      "_id": "6wJrKC2Ug7V9vZEh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.6wJrKC2Ug7V9vZEh"
+    },
+    {
+      "name": "[11] Hayloft",
+      "type": "text",
+      "text": {
+        "content": "<p>Irkel sleeps in the hayloft/ storeroom. Having his own sleeping quarters is one of his few statements of independence from his father.</p>\n<p>Prices</p>\n<table border=\"1\"><caption>Food</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tart (Apple or Plum)</td>\n<td>2f</td>\n</tr>\n<tr>\n<td>Pork or mutton stew</td>\n<td>1d</td>\n</tr>\n<tr>\n<td>Pottage</td>\n<td>4f</td>\n</tr>\n<tr>\n<td>Roast Goat</td>\n<td>2d</td>\n</tr>\n<tr>\n<td>Pork or mutton pie</td>\n<td>2d</td>\n</tr>\n<tr>\n<td>Broiled Trout</td>\n<td>3d</td>\n</tr>\n<tr>\n<td>Roast pork or mutton</td>\n<td>5d</td>\n</tr>\n<tr>\n<td>Roast goose</td>\n<td>15d</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\"><caption>Drinks</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Beer or Ale</td>\n<td>2f/pint</td>\n</tr>\n<tr>\n<td>Cider</td>\n<td>3f/pint</td>\n</tr>\n<tr>\n<td>Heleryn (apple brandy)</td>\n<td>3f/cup</td>\n</tr>\n<tr>\n<td>Leleryn (plum brandy)</td>\n<td>4f/cup</td>\n</tr>\n<tr>\n<td>Elmeze wine</td>\n<td>6f/cup</td>\n</tr>\n<tr>\n<td>Ominspit</td>\n<td>2f/cup</td>\n</tr>\n</tbody>\n</table>\n<p>Room in the small inn is at a premium. Jurlis knows that most of his customers come for his food and drink, so he will not overfill the rooms with lodgers, no matter how much they offer for shelter. He will allow no more than 12 people to sleep in the dormitory [6] or the common room [1] and limits the snugs [2 &amp; 3] to eight people each.</p>\n<table border=\"1\"><caption>Rooms</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common Room</td>\n<td>1d/person</td>\n</tr>\n<tr>\n<td>Snug</td>\n<td>1d/person</td>\n</tr>\n<tr>\n<td>Dormitory</td>\n<td>2d/person</td>\n</tr>\n<tr>\n<td>Small Private Room [7]</td>\n<td>4d/person (maximum 2 people)</td>\n</tr>\n<tr>\n<td>Medium Room [8]</td>\n<td>4d/person (maximum 4 people)</td>\n</tr>\n<tr>\n<td>Large Room [9 &amp; 10]</td>\n<td>6d/person (maximum 6 people)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "_id": "eVl70zfWP5LBC8dH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.eVl70zfWP5LBC8dH"
+    },
+    {
+      "name": "[12] Bridge Toll Collector",
+      "type": "text",
+      "text": {
+        "content": "<p>A monk sits in the shade of the inn during the day collecting tolls for people crossing the bridge.  Since there is not much traffic, this monk has little to do and is usually asleep or quietly drunk on the Trout's excellent cider.</p>",
+        "format": 1
+      },
+      "_id": "OvBcL8eSLUIuPUsk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zfKrupydlRCE7T4G.OvBcL8eSLUIuPUsk"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923407,
+    "modifiedTime": 1659205923407,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "zfKrupydlRCE7T4G",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!zfKrupydlRCE7T4G"
+}

@@ -1,0 +1,296 @@
+{
+  "name": "Abbey - New Cloister",
+  "pages": [
+    {
+      "name": "[A] Chapel of St. Syrele",
+      "type": "text",
+      "text": {
+        "content": "<p>The new temple is dedicated to Saint Syrele. The nave’s ceilings soar to the roof of the two- story edifice.</p>\n<p>The decorations inside the temple are the red and white of Larani with the large black boar that is the saint’s symbol. The services for the laity are given in this chapel. The choir and Reverend Father Valric sit on the western side of the altar. The clergy sit in rows on the east wall and each of the noble families has special row of chairs (that they have specially commissioned) set in the center. The other worshippers stand.</p>\n<ul>\n<li>@UUID[JournalEntry.qsB5VzLzehse5keL.JournalEntryPage.DBZnfkBAA29zfnsK]{[A1] Statue of Saint Ambrathas}</li>\n<li>@UUID[JournalEntry.qsB5VzLzehse5keL.JournalEntryPage.SlzHkw5RnC8G2Kpn]{[A2] Apse}</li>\n<li>@UUID[JournalEntry.qsB5VzLzehse5keL.JournalEntryPage.zmVG5PkrUiwGvIRh]{[A3] Statue of Saint Valamin}</li>\n<li>@UUID[JournalEntry.qsB5VzLzehse5keL.JournalEntryPage.9HiarfnaSwtz5iWS]{[A4] Meeting Room}</li>\n<li>@UUID[JournalEntry.qsB5VzLzehse5keL.JournalEntryPage.heTZwkULBW14odmz]{[A5] Meeting Room}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "Q6v8y2GQReF3zLjA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.Q6v8y2GQReF3zLjA"
+    },
+    {
+      "name": "[B] Female Matakea’s Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Small windows pierce the wall at regular intervals, giving the matakea’s small cells light but letting in the cold air during the winter. Each matakea has a small individual room. These cells are just large enough for a cot and a small writing desk. Clothes are hung on wall-mounted pegs. A small brazier provides heat during the long frosty winters. The latrine [B9], however, is unheated.</p>\n<ul>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.Du5HKYawprYCiRM2]{[B1] Empty}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.AYucaXi4Kgt91E19]{[B2] Herbalist}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.yboI6KfInjiRXwdt]{[B3] Mother Harquey}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.JddXk1UdFToRuFZn]{[B4] Mother Grorin}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.YHP518xXEo44I8CY]{[B5] Mother Makal - Cellarer}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.FAhybMiKi3JTWeRk]{[B6] Mother Modan - Prior}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.Su9ngWcBd3WPPBZM]{[B7] Mother Morvin - Overseer}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.2skrhhacueTut4tI]{[B8] Dormitory - Acolytes}</li>\n<li>@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.xGA1ZY5NtrTFqhpt]{[B9] Latrine}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "X4oiLnhueLRsLisr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.X4oiLnhueLRsLisr"
+    },
+    {
+      "name": "[C] The Hostelry (Guest House)",
+      "type": "text",
+      "text": {
+        "content": "<p>The abbey’s guesthouse has a dining room [C1] and a sitting room [C2]. Visitors can sleep in these rooms for a donation of 2d per night.</p>\n<p>Father Firain (see @UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.C3RzrFBhCkws2oBM]{[I4] Host Father Firain}) directs the operation of the Hostelry, acting in the same capacity as an innkeeper. He is a master at the art of social protocol and knows the favorite dishes and personal quirks of every noble in the Hundred. He is on first name basis with the Baron. Even Sir Tommas Kobarney, the elder statesman of the hundred, has a hard time remembering when Firain wasn’t in charge of the Hostelry. While Father Firain lives with the other matakea, he spends most of his time here tending to guests or making beer and cider.</p>\n<ul>\n<li>@UUID[JournalEntry.7aKyBp5TWmnsh3DW.JournalEntryPage.isR8oxnUSjKrufnK]{[C1] Dining Room}</li>\n<li>@UUID[JournalEntry.7aKyBp5TWmnsh3DW.JournalEntryPage.ojEwZ5yft8dEke7y]{[C2] Sitting Room}</li>\n<li>@UUID[JournalEntry.7aKyBp5TWmnsh3DW.JournalEntryPage.b26S2ppKcecOeDom]{[C3] Dormitory}</li>\n<li>@UUID[JournalEntry.7aKyBp5TWmnsh3DW.JournalEntryPage.W2OycVNWCJ1Kc91f]{[C4] Guest Room}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "pYM4lto3T6sLIglZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.pYM4lto3T6sLIglZ"
+    },
+    {
+      "name": "[D] The Kitchens",
+      "type": "text",
+      "text": {
+        "content": "<p>Aratha Urdel (see @UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}) keeps the abbey fed and the Serolan happy. All of the abbey’s food is prepared here and then taken to its destination to be warmed. Aratha and his crew of cooks and scullery maids are boisterous and vulgar. Few of the matakea and none of the ashesa dare enter the kitchens for fear that they might be put to work.</p>\n<p>While Mother Makal (@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.YHP518xXEo44I8CY]{[B5] Mother Makal - Cellarer}) is preoccupied, Aratha has devised a simple scheme that divides his resources to where they are needed the most, even if it means that the ashesa are eating salted rations for almost eight months a year. Mother Makal recognizes Aratha’s talents and would do anything to keep him at the abbey. Although there has been no evidence of impropriety, Aratha’s wife (see @UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}) is not comfortable with the amount of attention the attractive priestess gives her husband.</p>",
+        "format": 1
+      },
+      "_id": "DOlOPL9Rx45KlGkM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.DOlOPL9Rx45KlGkM"
+    },
+    {
+      "name": "[E] The Dining Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The matakea and ashesa take both of their daily meals here. Breakfast is a warm pottage but the evening meal might be boring but filling fare of salt pork and biscuits. Despite the plainness of this menu, Aratha ensures that the guesthouse, the masters, and the Serolan dine on the best he can devise.</p>",
+        "format": 1
+      },
+      "_id": "yueZiWs8GkSxKe29",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.yueZiWs8GkSxKe29"
+    },
+    {
+      "name": "[F] The Hospital (Mother Laerl)",
+      "type": "text",
+      "text": {
+        "content": "<p>The patients, including the permanent residents, are dressed in pure white cassocks. They wear undyed white to distinguish them from the habits of the ashesa. </p>\n<ul>\n<li>@UUID[JournalEntry.Tln9sfujpNZrxUTK.JournalEntryPage.RfhWROdDPLGHIRTq]{[F1] The Herbarium}</li>\n<li>@UUID[JournalEntry.Tln9sfujpNZrxUTK.JournalEntryPage.LvuXmWPtXkfpok9F]{[F2] The Infirmary}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "awUZAEEJxUFAdoM4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.awUZAEEJxUFAdoM4"
+    },
+    {
+      "name": "[G] The Hospital Staff Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The permanent staff of the Infirmary lives here. The open hall is always cold and the Abbey provides little firewood for the fire.</p>\n<p>Two veniken (retired meken), Jerrin [G7] and Merryn [G8], assist Father Crinsa with the patients.  Their bedside manner is nonexistent, leading to more than one patient to remark “I got better because they’d have killed me if I hadn’t.”</p>\n<p>The six permanent residents live here with the lay brothers. These individuals are old men and women who have retired to the abbey after relinquishing their lands and chattels.</p>\n<p>In addition to the veniken, four elderly men live and work in the infirmary. The men are curmudgeons, given to slow work and lots of stories. Their aches and pains keep them from being much use with the patients but they are competent gardeners when the weather is nice.</p>\n<ul>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.7Oyh43xaeLI532mH]{[G1] Julyla Abel}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.jIN5lCIPcBZKOcgD]{[G2] Jilëa Narador}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.MZA37LEtuH1Xli8g]{[G3] Torka Oris}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.d6Jxw0sSjX4OOhRa]{[G4] Hovis Tebrynë}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.CNwnUbCbolbzCeO7]{[G5] Lokron Kressenta}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.XogBesXcykmfpUiA]{[G6] Tharon Baralis}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.HFI3hpel7dXuGaAJ]{[G7] Veniken Jerrin}</li>\n<li>@UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.TcT3KzsQEQycY0kB]{[G8] Veniken Merryn}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "QtWXaUbITyoGuUp1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.QtWXaUbITyoGuUp1"
+    },
+    {
+      "name": "[H] Guildsmen’s Quarters",
+      "type": "text",
+      "text": {
+        "content": "<ul>\n<li>@UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.HhTS17tWygQpziv0]{[H1] Clothier's Workshop}</li>\n<li>@UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}</li>\n<li>@UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.nItOLLphp8pWPlZ4]{[H3] Bonded Ostler Sorobin Loyril}</li>\n<li>@UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.mtV1bbinK8NYu8CY]{[H4] Bonded Timberwright Harquey Berma}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "3x1hWmckYTtKKvHM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.3x1hWmckYTtKKvHM"
+    },
+    {
+      "name": "[I] Male Matakea’s Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The upstairs rooms of the Matakea’s Hall are assigned to the male clergy. They are identical to the female rooms (see @UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.X4oiLnhueLRsLisr]{[B] Female Matakea’s Quarters}). The latrine (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.6X9HKxGPQmBqGGDm]{[I9] Latrine}) is unheated.</p>\n<ul>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.K5b2zx6p0UB5c0eH]{[I1] Illuminator Father Sindren}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.acyI8a5YPQMqE7It]{[I2] Calligraphist Father Esen}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.36BWsxDDyopZ4bXG]{[I3] Librarian Father Harond}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.C3RzrFBhCkws2oBM]{[I4] Host Father Firain}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.Of8fDe15OZuKuq7B]{[I5] Precentor Father Tanam}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.DEsBZ0kzKyreiTAu]{[I6] Hospitaller Father Crinsa}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.hCFrJLlKB4Bvz8aN]{[I7] Huntsman Father Dinan}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.4AEaz19AwYnBmtQp]{[I8] Male Acolytes' Dormitory}</li>\n<li>@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.6X9HKxGPQmBqGGDm]{[I9] Latrine}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "wFCMqkTIe2pZE188",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.wFCMqkTIe2pZE188"
+    },
+    {
+      "name": "[J] Library",
+      "type": "text",
+      "text": {
+        "content": "<p>The abbey’s library is a long narrow suite of rooms.  Scholars journey to the abbey to research the time of Calsten and Medrik I. The abbey often hosts Loran, a scholar from Ominstru who has an interest in the Serelindian ruins. He spends days searching through the books and is a familiar sight in the library. In the guesthouse, Loran will talk about his explorations among the old manors that lie in the forest north of the Abbey. Occasionally, Loran brings things he finds for the others to see. If any of the Laranians suspected that he is a Save K’norran priest, he might be a bit less welcome at the Abbey and in the Hundred.</p>\n<ul>\n<li>@UUID[JournalEntry.lsIPZJR96Q5NKjQN.JournalEntryPage.9KGrhPzZn8nJvQ1e]{[J1] Reading Room}</li>\n<li>@UUID[JournalEntry.lsIPZJR96Q5NKjQN.JournalEntryPage.BmHZnbQ3QH4PQj9o]{[J2] Scriptorium}</li>\n<li>@UUID[JournalEntry.lsIPZJR96Q5NKjQN.JournalEntryPage.39oDr8d8gpfxMiP1]{[J3] Collection}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "KsP8P43eUSsq9ZAe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kGb05EHf1SvNAPn9.KsP8P43eUSsq9ZAe"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.kGb05EHf1SvNAPn9"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923399,
+    "modifiedTime": 1659205923399,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "kGb05EHf1SvNAPn9",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!kGb05EHf1SvNAPn9"
+}

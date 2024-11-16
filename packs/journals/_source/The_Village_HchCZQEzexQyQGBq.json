@@ -1,0 +1,953 @@
+{
+  "name": "The Village",
+  "pages": [
+    {
+      "name": "Lethyl Village",
+      "type": "text",
+      "text": {
+        "content": "<p>Throughout the years, the village has been built along the sides of the road to Sezaze but in recent years new arrivals have pushed the houses down the Denwald road as well. Lethyl has long been known as the home of the Kleve clan of peasants and most people are either part of this extensive clan or are related to it in some way.</p>\n<ul>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.esgRIknRS9XYYjuj]{[1] Cottar Jouldar Tolonan}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.8GaD9ignsCy9SRT3]{[2] Cottar Baidis Tolonan}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.kEzTwLVXgoTFl1br]{[3] Cottar Jaidis Arsarl}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.JIpgLE5iAlHo7bcd]{[4] Villein Baran Arsarl}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.zV52aNdwW8cy2tcs]{[5] Cottar Foryn Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.v4QMxkHlrK9rC3wi]{[6] Villein Serech Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.4P51dp4r7QY7iQhx]{[7] Half-Villein Fandar Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.deSvbGccbUkbxFRf]{[8] Half-Villein (Herder) Kran Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.EHMsK6cmx5dYmiwp]{[10] Cottar Velfin Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.uV6EOWctayZEYT0o]{[11] Cottar (Beadle) Brian Kleve}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.PrsAHxyJtoX1Jxma]{[12] Village Graveyard}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.CQ0VyiKQ0mbMGBmi]{[13] Woodcrafter Haes Cybela}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.UdLV1biRg90Aw2QO]{[14] Metalsmith Mathil Berma}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.kH7aWWkleAW4wnTy]{[15] The Dancing Trout Inn}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.gd7kTilIe0DFcLFJ]{[16] Villein Inzal Arsarl}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.zW6GL47rpcIYZ1or]{[17] Cottar Ketta Arsarl}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.XGTfheGGYhzsZqEf]{[18] Villein Shulen Faleren}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.lZqcadGf51V8mOEm]{[19] Half-Villein Eraken Nelt}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.3C0xmI1haMRzvFWh]{[20] Half-Villein Olwin Dyren}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.okarTP8N518ZemX1]{[21] Villein Eworins Drelin}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.yZwGCsIAnyXMR8oh]{[22] Villein Conkal Drelin}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.W6itR5PNVyZ2YrPq]{[23] Cottar Merdin Panda}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.BEfSBSbqxDX2DGq4]{[24] Half-Villein Larsan Nelt}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.dFr3C5MoaFU5PniY]{[25] Cottar Anrain Loyril}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.2xcjg5hkQ0byHcEd]{[26] Cottar Ellas Dyren}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Asiny5mTjDbAVhgr]{[27] Villein Tervis Awensel}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.nOZRr6sKIA23IStQ]{[28] Villein Shurdin Churil}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Ec5bItastcjOMULM]{[29] Villein Tolin Churil}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Tt3Mm3VQ3MxNhkY0]{[30] Half-Villein Seredir Churil}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.NC5R0eRTPp7a75bJ]{[31] Miller Horad Etine}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.DoeXI26PMlyu3VS8]{[32] Charcoaler Tyrgan Asaka}</li>\n<li>@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.2jUSsX2XtwOwvtL8]{[33] Peonian Shrine}</li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "wNkXeoTPL3yfLdC4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.wNkXeoTPL3yfLdC4"
+    },
+    {
+      "name": "[1] Cottar Jouldar Tolonan",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Even though he has six children of his own, Jouldar is trying to help his sister-in-law Baidis (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.8GaD9ignsCy9SRT3]{[2] Cottar Baidis Tolonan}) keep her lands. This is a tricky situation because of the enmity that had existed between himself and his brother, Baidis’ husband. Jouldar inherited the bulk of his father’s estate, an event that led to the disagreement between he and his brother. Despite this past friction, Jouldar cares enough about his family to put this matter aside in Baidis’ time of need.</p>\n<p>In addition to working his own land, Jouldar is paid to care for the grounds of the village graveyard (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.PrsAHxyJtoX1Jxma]{[12] Village Graveyard}) by the Obasaran.</p>",
+        "format": 1
+      },
+      "_id": "esgRIknRS9XYYjuj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.esgRIknRS9XYYjuj"
+    },
+    {
+      "name": "[2] Cottar Baidis Tolonan",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>After her husband’s death in the recent attack, she isn’t sure how she will survive with her two young children. Her husband had been on very bad terms with his family so she is surprised and a bit suspicious of her brother in law’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.esgRIknRS9XYYjuj]{[1] Cottar Jouldar Tolonan}) motives for helping her. She is considering returning to her family in Hundholt.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "8GaD9ignsCy9SRT3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.8GaD9ignsCy9SRT3"
+    },
+    {
+      "name": "[3] Cottar Jaidis Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Widowed in the recent bandit attack, Jaidis and her three children may move in with her husband’s cousins to survive. She is not a very likable woman and her children are sheer terrors. Jaidis hopes to marry off her daughter in a few years and then live off her hopefully wealthy son in law.</p>",
+        "format": 1
+      },
+      "_id": "kEzTwLVXgoTFl1br",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.kEzTwLVXgoTFl1br"
+    },
+    {
+      "name": "[4] Villein Baran Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Baran is encouraging his cousin’s widow, Jaidis (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.kEzTwLVXgoTFl1br]{[3] Cottar Jaidis Arsarl}), to move back to her family in Ominstru. Some other villagers have ascribed his suggestions to greed. Those that know Jaidis a little better, however, have said that Baran is trying to find a polite way to get rid of an embarrassing and irritating family member.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "JIpgLE5iAlHo7bcd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.JIpgLE5iAlHo7bcd"
+    },
+    {
+      "name": "[5] Cottar Foryn Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Foryn is a 74-inch tall mountain of a man. He is the village’s champion wrestler and is so formidable most people in the hundred call him “The Rock.” Unfortunately Foryn carries a lot of stone between his ears as well as in his muscles. He hates it when his cousin Largo (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) “lords her position over him” but will never admit that his laziness is the cause of his frequent reprimands. He has a large family and was happy when Largo approached him about marrying his eldest son to Ellas Dyren (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.2xcjg5hkQ0byHcEd]{[26] Cottar Ellas Dyren}).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "zV52aNdwW8cy2tcs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.zV52aNdwW8cy2tcs"
+    },
+    {
+      "name": "[6] Villein Serech Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Serech is a handsome, middle-aged man. He is happy with his lot – a fine family and productive lands – but he would be crushed if he realized that none of his 5 children is his.</p>\n<p>After years of trying to start a family, his wife Melkëa turned to the Ebasethe of Sezaze manor, Wyliam of Ewen, for guidance. Wyliam’s help was of a physical, rather than spiritual, nature but Melkëa found herself with child. She has been giving herself to the Ebasethe for the past 16 years, telling herself that she is not in love with the priest but is sacrificing herself for her husband’s happiness. She would die of shame if anyone ever found out about the affair.</p>",
+        "format": 1
+      },
+      "_id": "v4QMxkHlrK9rC3wi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.v4QMxkHlrK9rC3wi"
+    },
+    {
+      "name": "[7] Half-Villein Fandar Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>This young man was wounded in the bandit attack but will survive. He has found a renewed religious fervor as a result of his wounds and often works with Eworins Drelin (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.okarTP8N518ZemX1]{[21] Villein Eworins Drelin}) on the little Peonian shrine (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.2jUSsX2XtwOwvtL8]{[33] Peonian Shrine}) north of the graveyard.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "4P51dp4r7QY7iQhx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.4P51dp4r7QY7iQhx"
+    },
+    {
+      "name": "[8] Half-Villein (Herder) Kran Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>Kran is Fandar’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.4P51dp4r7QY7iQhx]{[7] Half-Villein Fandar Kleve}) father and the reeve’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) brother. He is worried about the bandit situation but will remain loyal to his sister and support her decisions without question.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "deSvbGccbUkbxFRf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.deSvbGccbUkbxFRf"
+    },
+    {
+      "name": "[9] Villein (Reeve) Largo Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>The reeve, Largo Kleve, is a petite woman who inherited the reeve’s job at the death of her father. At 39, she is highly respected. She is very business like and insists on performing all of the proper protocols, a trait that feeds the Serolan’s ego. She is well liked in the village and takes great pains to ensure that “her people” are not often seen in the Serolan’s court.</p>",
+        "format": 1
+      },
+      "_id": "9Q8EncIJIDK3l5Wx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.9Q8EncIJIDK3l5Wx"
+    },
+    {
+      "name": "[10] Cottar Velfin Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Largo’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) second cousin is a young hard-working man. He is the village orchard keeper, a position he inherited from his father, and also keeps bees.</p>\n<p>While he should be content, Velfin is filled with guilt. To his shame, he ran and hid in the graveyard during the recent attack. Now, he is distracted by thoughts of what he should have done to protect his family and his friends.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "EHMsK6cmx5dYmiwp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.EHMsK6cmx5dYmiwp"
+    },
+    {
+      "name": "[11] Cottar (Beadle) Brian Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>A burly, broad shouldered man, Brian is the muscle behind his aunt Largo’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) decisions. His enthusiasm has made him slightly unpopular in the village but, since most of the other villagers are his relatives, they realize that he is just doing his job. They just wish he wouldn’t do it so well.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uV6EOWctayZEYT0o",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.uV6EOWctayZEYT0o"
+    },
+    {
+      "name": "[12] Village Graveyard",
+      "type": "text",
+      "text": {
+        "content": "<p>The graveyard sits outside the abbey precincts and is surrounded by a six-foot high rough stone wall. Families and mourners enter the graveyard through a large wooden gate that pierces the western side of the cemetery’s enclosure. As a visitor looks left and right, small flower covered mounds mark Peonian graves. Families of the deceased usually plant a small white flower, called boneset, on the grave and the entire area is full of sweet smells and the buzzing of bees. Paths of beaten earth crisscross the Peonian section of the graveyard.</p>\n<p>A wide gravel path leads from the first gate to a second. Inside the second enclosure are the stone mausoleums of the region’s Laranian clans. A visitor walking along the left side path would pass several family memorials. While the larger landowning clans prefer to inter their members at their home manors, many older noble families and all of the yeomanry choose to memorialize their relatives at the Abbey.</p>\n<p>The first mausoleum along the path belongs to the Baralis clan. Wild thorny roses have over grown the old crypt and none but the bees visit here. The names on the walls stretch back to 560TR. Everything looks dusty and neglected but a close inspection of the far left corner will reveal that one of the old markers has been moved (see @UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.4AEaz19AwYnBmtQp]{[I8] Male Acolytes' Dormitory}).</p>\n<p>Next, the eagle of the Rynsel clan stands over the doorway of a tall, white burial monument. A weathered marble cenotaph to Saint Freden, the man who held the right of the Serelindian battle line at Noneth, guards the entryway. Its fading carving reminds visitors of the family’s ancient and honorable heritage. A local Laranian saint, St. Freden’s remains lay elsewhere but many pilgrims leave flowers on the memorial to celebrate his memory. The location of St. Freden’s final resting place is one of the questions that Loran the Southron seeks to answer (see @UUID[JournalEntry.lsIPZJR96Q5NKjQN.JournalEntryPage.9KGrhPzZn8nJvQ1e]{[J1] Reading Room}).</p>\n<p>Third in line, this monument once belonged to the Lournay clan but, on their assumption of the lordship of Drilen, was sold to the ancient but impoverished Narador family. The Naradors labor as mercenaries and household knights throughout eastern Hârn. Regardless of where they have lived and fought, the family takes great pride in burying the hearts of their family members here in the family tomb. Jilëa Narador (see @UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.jIN5lCIPcBZKOcgD]{[G2] Jilëa Narador}) cares for this tomb in her off hours.</p>\n<p>The next three crypts are ossuaries for common-born Laranians. Each of the crypts dates from a specific time, so that the bones of those that died in the Civil War lie in the first, those who succumbed to the Red Death in the next. The third is the newest and is slowly being filled with the bones of the dead. As space is always an issue in these public ossuaries, the practice is to save the skull of the deceased, carefully marked with a number. The Obasaran maintains the registry of the dead, noting in which ossuary or crypt each individual is interred.</p>\n<p>The next two monuments belong to the large yeomen clans of the hundred, the Urdels and the Arandin. These are plain stone buildings, their dour façades relieved only by the family name.</p>\n<p>Beyond the final gate is a large, plain stone cube. Only a small, low opening at the end of the path interrupts its unmarked surface. This edifice is the temple’s ossuary. Members of the temple find their final rest here.</p>",
+        "format": 1
+      },
+      "_id": "PrsAHxyJtoX1Jxma",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.PrsAHxyJtoX1Jxma"
+    },
+    {
+      "name": "[13] Woodcrafter Haes Cybela",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Hammer</p>\n<p><strong>Size:</strong> 3 <strong>Quality:</strong> ★★ <strong>Prices:</strong> Average</p>\n<p>Haes has the tools to build most of the household items people need but little of the required skill. This has not stopped him from trying and most villagers have at least one piece of his furniture that will not stay together. He also makes casks for the abbey’s brandy.</p>",
+        "format": 1
+      },
+      "_id": "CQ0VyiKQ0mbMGBmi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.CQ0VyiKQ0mbMGBmi"
+    },
+    {
+      "name": "[14] Metalsmith Mathil Berma",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Anvil</p>\n<p><strong>Size:</strong> 3 <strong>Quality:</strong> ★★★★ <strong>Prices: Average</strong></p>\n<p>A good smith, Mathil works for the abbey as well as the village. He is licensed to make metal boar-shaped badges for sale to the pilgrims. He pays the Obsaran three shillings a year for this privilege but often jokes that the badges pay more than the blacksmithing.</p>",
+        "format": 1
+      },
+      "_id": "UdLV1biRg90Aw2QO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.UdLV1biRg90Aw2QO"
+    },
+    {
+      "name": "[15] The Dancing Trout Inn",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> A Dancing Fish</p>\n<p><strong>Innkeeper:</strong> Jurlis Haral</p>\n<p><strong>Size:</strong> 4 <strong>Quality:</strong> ★★★★ <strong>Prices:</strong> Average</p>\n<p>The Dancing Trout Inn sits by the Lethyl Bridge on the Sezaze road. Climbing vines cover the inn and spread sweet smells when their flowers are in bloom. The stone first story contains the taproom, divided into sections for the nobles and their servants. The timber second story houses the innkeeper’s family and guests. The guest rooms are richly appointed and are used throughout the year by pilgrims or visiting nobles. The small area between the kitchens and the river is used as a beer garden during the warmer months.</p>\n<ul>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.HvozFDqvGPzVKNs1]{[1] Common Area/Tap Room}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.7Pusi1QkZfHlVyg5]{[2] Nobles’ Bar}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.TrZJkLcAWk0Piox3]{[3] Private Snug}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.lNz1yXvFvbitj8G9]{[4] Kitchen}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.4euCIwJn12GT2Sso]{[5] Stables}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.Q9E3Lb5IsYNaF1RV]{[6] Dormitory}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.pMLu3JXCSPmFDXm0]{[7] Guest Room}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.NXCqZF06hKVMqGRO]{[8] Guest Room}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.HtbduB6y8cBJc3TZ]{[9] Guest Room}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.6wJrKC2Ug7V9vZEh]{[10] Family Room}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.eVl70zfWP5LBC8dH]{[11] Hayloft}</li>\n<li>@UUID[JournalEntry.zfKrupydlRCE7T4G.JournalEntryPage.OvBcL8eSLUIuPUsk]{[12] Bridge Toll Collector}</li>\n</ul>\n<h2>Prices</h2>\n<table border=\"1\"><caption>Food</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tart (Apple or Plum)</td>\n<td>2f</td>\n</tr>\n<tr>\n<td>Pork or mutton stew</td>\n<td>1d</td>\n</tr>\n<tr>\n<td>Pottage</td>\n<td>4f</td>\n</tr>\n<tr>\n<td>Roast Goat</td>\n<td>2d</td>\n</tr>\n<tr>\n<td>Pork or mutton pie</td>\n<td>2d</td>\n</tr>\n<tr>\n<td>Broiled Trout</td>\n<td>3d</td>\n</tr>\n<tr>\n<td>Roast pork or mutton</td>\n<td>5d</td>\n</tr>\n<tr>\n<td>Roast goose</td>\n<td>15d</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\"><caption>Drinks</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Beer or Ale</td>\n<td>2f/pint</td>\n</tr>\n<tr>\n<td>Cider</td>\n<td>3f/pint</td>\n</tr>\n<tr>\n<td>Heleryn (apple brandy)</td>\n<td>3f/cup</td>\n</tr>\n<tr>\n<td>Leleryn (plum brandy)</td>\n<td>4f/cup</td>\n</tr>\n<tr>\n<td>Elmeze wine</td>\n<td>6f/cup</td>\n</tr>\n<tr>\n<td>Ominspit</td>\n<td>2f/cup</td>\n</tr>\n</tbody>\n</table>\n<p>Room in the small inn is at a premium. Jurlis knows that most of his customers come for his food and drink, so he will not overfill the rooms with lodgers, no matter how much they offer for shelter. He will allow no more than 12 people to sleep in the dormitory [6] or the common room [1] and limits the snugs [2 &amp; 3] to eight people each.</p>\n<table border=\"1\"><caption>Rooms</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common Room</td>\n<td>1d/person</td>\n</tr>\n<tr>\n<td>Snug</td>\n<td>1d/person</td>\n</tr>\n<tr>\n<td>Dormitory</td>\n<td>2d/person</td>\n</tr>\n<tr>\n<td>Small Private Room [7]</td>\n<td>4d/person (maximum 2 people)</td>\n</tr>\n<tr>\n<td>Medium Room [8]</td>\n<td>4d/person (maximum 4 people)</td>\n</tr>\n<tr>\n<td>Large Room [9 &amp; 10]</td>\n<td>6d/person (maximum 6 people)</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "_id": "kH7aWWkleAW4wnTy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.kH7aWWkleAW4wnTy"
+    },
+    {
+      "name": "[16] Villein Inzal Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Inzal has offered to take his cousin’s widow, Jaidis (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.kEzTwLVXgoTFl1br]{[3] Cottar Jaidis Arsarl}), into his home out of a sense of familial duty. Since Inzal has 9 children of his own, he figures that a few more mouths are not that much harder to feed. He has exchanged harsh words with Baran (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.JIpgLE5iAlHo7bcd]{[4] Villein Baran Arsarl}) over the matter of family charity.</p>",
+        "format": 1
+      },
+      "_id": "gd7kTilIe0DFcLFJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.gd7kTilIe0DFcLFJ"
+    },
+    {
+      "name": "[17] Cottar Ketta Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Another of the Arsarls, Ketta was also widowed in the bandit attack. Despite her loss, she has offered her home to Jaidis (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.kEzTwLVXgoTFl1br]{[3] Cottar Jaidis Arsarl}). She is very depressed over the death of her husband and has contemplated hanging herself to cure her sorrow.</p>",
+        "format": 1
+      },
+      "_id": "zW6GL47rpcIYZ1or",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.zW6GL47rpcIYZ1or"
+    },
+    {
+      "name": "[18] Villein Shulen Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Shulen has two daughters of marriageable age. He is also wealthy enough to grant them each respectable dowries. He has been entertaining suitors for weeks and hopes to sign wedding contracts for each of his girls by mid-summer.</p>",
+        "format": 1
+      },
+      "_id": "XGTfheGGYhzsZqEf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.XGTfheGGYhzsZqEf"
+    },
+    {
+      "name": "[19] Half-Villein Eraken Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>This young man and his wife, Hirilkë, are very proud of their new home and their new son. Hirilkë is Largo Kleve’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) eldest daughter. Eraken has asked his mother in law to petition the Serolan to let the serfs join the village’s militia.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "lZqcadGf51V8mOEm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.lZqcadGf51V8mOEm"
+    },
+    {
+      "name": "[20] Half-Villein Olwin Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>Loud, fat, and happy are the three words that describe Olwin. Nothing, not even bandits or bad weather, could ever dent his good humor. He and his wife are guaranteed to be the center of any social gathering and their comedic timing has been honed to perfection during fourteen years of marriage.</p>",
+        "format": 1
+      },
+      "_id": "3C0xmI1haMRzvFWh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.3C0xmI1haMRzvFWh"
+    },
+    {
+      "name": "[21] Villein Eworins Drelin",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Always a devout Peonian, Eworins was gravely shaken by the violence of the recent attack. He and several other villagers have begun constructing a small shrine to Peoni on the southern edge of the manor’s fields (see @UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.2jUSsX2XtwOwvtL8]{[33] Peonian Shrine}) to commemorate those that fell.</p>",
+        "format": 1
+      },
+      "_id": "okarTP8N518ZemX1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.okarTP8N518ZemX1"
+    },
+    {
+      "name": "[22] Villein Conkal Drelin",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Conkal was wounded in the recent attack and is being cared for by his wife. He will live but has lost his left arm below the elbow.</p>",
+        "format": 1
+      },
+      "_id": "yZwGCsIAnyXMR8oh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.yZwGCsIAnyXMR8oh"
+    },
+    {
+      "name": "[23] Cottar Merdin Panda",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Merdin and his wife recently arrived from Elmeze. No one knows why he left his home village but his astonishing good looks have many of the housewives eyeing him as he works the fields. His wife doesn’t seem to mind others paying attention to Merdin, as long as he comes home with her.</p>",
+        "format": 1
+      },
+      "_id": "W6itR5PNVyZ2YrPq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.W6itR5PNVyZ2YrPq"
+    },
+    {
+      "name": "[24] Half-Villein Larsan Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>He is called Larsan the Black for his dark hair and eyes. His wife makes good ale and Larsan likes to drink it. He is the village gong farmer, selling the solid waste he collects from the abbey’s cesspits as fertilizer.</p>",
+        "format": 1
+      },
+      "_id": "BEfSBSbqxDX2DGq4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.BEfSBSbqxDX2DGq4"
+    },
+    {
+      "name": "[25] Cottar Anrain Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Anrain would sell his own shadow if he thought that he could profit by it. He has both a son and a daughter of marriageable age but has such a bad reputation that he has yet to have a single suitor for either of them. Anrain’s twisted mind has worked out how the Kleve family is behind his trouble with the other villagers. He would like nothing more than to see Largo Kleve (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}) publicly embarrassed.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "dFr3C5MoaFU5PniY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.dFr3C5MoaFU5PniY"
+    },
+    {
+      "name": "[26] Cottar Ellas Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 3</strong></p>\n<p>Ellas was widowed in the attack and is now alone. She doesn’t want to return to her father’s home in Denwald and has tried to work her land by herself. She has reluctantly accepted the aid of Foryn Kleve’s eldest son, Toman (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.zV52aNdwW8cy2tcs]{[5] Cottar Foryn Kleve}). The boy is shy but his crush on her is unmistakable. Ellas wants more time to mourn her husband before she must face the hard decision about remarrying.</p>",
+        "format": 1
+      },
+      "_id": "2xcjg5hkQ0byHcEd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.2xcjg5hkQ0byHcEd"
+    },
+    {
+      "name": "[27] Villein Tervis Awensel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>A bombastic, self important, man, he has long held the opinion that he would make a better reeve than “that little woman.” He has chosen to make the bandit raid the issue that catapults him into the position and can be heard most nights lecturing his fellow villagers in the Dancing Trout’s taproom. He has sided with the miller (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.NC5R0eRTPp7a75bJ]{[31] Miller Horad Etine}) against the Kleves.</p>",
+        "format": 1
+      },
+      "_id": "Asiny5mTjDbAVhgr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.Asiny5mTjDbAVhgr"
+    },
+    {
+      "name": "[28] Villein Shurdin Churil",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Shurdin’s husband failed to return from a trip to Getha over eight months ago, leaving her alone with two young children. Instead of mourning, she was indecently hasty in accepting Jaben Kleve’s (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.uV6EOWctayZEYT0o]{[11] Cottar (Beadle) Brian Kleve}) marriage proposal. Still a young woman, her fine features and her land make her highly sought after. Shurdin and Jaben hope to marry in the summer and he is already helping her work her fields. Her husband’s brothers (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Ec5bItastcjOMULM]{[29] Villein Tolin Churil} and @UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Tt3Mm3VQ3MxNhkY0]{[30] Half-Villein Seredir Churil}) are not at all pleased with the situation. They want Shurdin to marry another Churil (from Hundholt) and keep the land in the family.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "nOZRr6sKIA23IStQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.nOZRr6sKIA23IStQ"
+    },
+    {
+      "name": "[29] Villein Tolin Churil",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 38</strong></p>\n<p>Tolin and his cousin Seredir (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.Tt3Mm3VQ3MxNhkY0]{[30] Half-Villein Seredir Churil}) hate the entire Kleve clan. They are openly jealous of the Kleve’s position and feel that they are been excluded from important decisions in the village by “family politics.” The fact that this is undeniably true and that Largo Kleve (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.uV6EOWctayZEYT0o]{[11] Cottar (Beadle) Brian Kleve}) doesn’t care what the two Churils think makes them even madder.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Ec5bItastcjOMULM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.Ec5bItastcjOMULM"
+    },
+    {
+      "name": "[30] Half-Villein Seredir Churil",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Acres: 19</strong></p>\n<p>Tonin’s cousin, Seredir is always one to echo his kinsman’s statements. He has slightly more initiative than Tonin but has far less intelligence and is content to let his cousin lead.</p>",
+        "format": 1
+      },
+      "_id": "Tt3Mm3VQ3MxNhkY0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.Tt3Mm3VQ3MxNhkY0"
+    },
+    {
+      "name": "[31] Miller Horad Etine",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 2 <strong>Quality: ★★★</strong>  <strong>Prices:</strong> Average</p>\n<p>The miller, Horad Etine, runs the water- powered mill. He is highly skilled but his hulking appearance and vicious temper lead most villagers to try to spend as little time in his presence as possible. The abbey’s Obasaran, Master Tonin, is frequently the referee between the miller and the reeve as they dispute the mill’s fees and operation.</p>\n<p>Horad hates Largo Kleve (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.9Q8EncIJIDK3l5Wx]{[9] Villein (Reeve) Largo Kleve}). He wants to expand his influence in the village by discrediting the reeve. While he has exploited the jealousies between the serf families to try and undermine Largo Kleve, he has been less successful with the other craftsmen in the village.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "NC5R0eRTPp7a75bJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.NC5R0eRTPp7a75bJ"
+    },
+    {
+      "name": "[32] Charcoaler Tyrgan Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Average</p>\n<p>Tyrgan lives in a small hut under the eaves of the abbey’s wood. He provides charcoal for the abbey and most of the craftsmen in the northern part of the hundred. When the weather is good, he will journey as far as Elmeze to deliver his product to the smith. Tyrgan is the most widely traveled peasant in the village and is a bit arrogant for this fact, often making comments and gossiping about the places that he visits.</p>",
+        "format": 1
+      },
+      "_id": "DoeXI26PMlyu3VS8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.DoeXI26PMlyu3VS8"
+    },
+    {
+      "name": "[33] Peonian Shrine",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the small stone shrine that the villagers have erected to commemorate their fallen neighbors. The shrine has become the place where they gather for Peonian services. Eworins Drelin (@UUID[JournalEntry.HchCZQEzexQyQGBq.JournalEntryPage.okarTP8N518ZemX1]{[21] Villein Eworins Drelin}) has become the self-appointed sexton of the shrine and fills his spare time keeping it clean or adding to the structure.</p>",
+        "format": 1
+      },
+      "_id": "2jUSsX2XtwOwvtL8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!HchCZQEzexQyQGBq.2jUSsX2XtwOwvtL8"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923373,
+    "modifiedTime": 1659205923373,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "HchCZQEzexQyQGBq",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!HchCZQEzexQyQGBq"
+}

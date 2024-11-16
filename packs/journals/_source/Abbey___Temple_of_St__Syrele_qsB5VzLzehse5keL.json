@@ -1,0 +1,161 @@
+{
+  "name": "Abbey - Temple of St. Syrele",
+  "pages": [
+    {
+      "name": "[A1] Statue of Saint Ambrathas",
+      "type": "text",
+      "text": {
+        "content": "<p>During Tirannon (see @UUID[JournalEntry.eoSIuQXymUfnqNR4.JournalEntryPage.nGuo2ixC5omlNCn1]{Visiting Lethyl Abbey}), vigils are held here at the foot of the statue of Saint Ambrathas.</p>",
+        "format": 1
+      },
+      "_id": "DBZnfkBAA29zfnsK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qsB5VzLzehse5keL.DBZnfkBAA29zfnsK"
+    },
+    {
+      "name": "[A2] Apse",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">Saint Syrele’s statue occupies the apse. The gold and amber reliquary (2’ x 3’) sits on a plinth at the foot of the statue, as if guarded by the Saint herself. During the Saint’s feast day (10 Savor), the reliquary is brought to the altar. In times of strife, however, the relics are safeguarded in the Serolan’s rooms (see @UUID[JournalEntry.Jup6YDQAVVEdV1Z2.JournalEntryPage.88lPLVlC6oxtQfGl]{[M4] Serolan's Personal Quarters}).</span></p>",
+        "format": 1
+      },
+      "_id": "SlzHkw5RnC8G2Kpn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qsB5VzLzehse5keL.SlzHkw5RnC8G2Kpn"
+    },
+    {
+      "name": "[A3] Statue of Saint Valamin",
+      "type": "text",
+      "text": {
+        "content": "<p>This alcove is dedicated to Saint Valamin.</p>",
+        "format": 1
+      },
+      "_id": "zmVG5PkrUiwGvIRh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qsB5VzLzehse5keL.zmVG5PkrUiwGvIRh"
+    },
+    {
+      "name": "[A4] Meeting Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Like its twin on the other side of the temple nave, this room is also used for meetings and classes. The precentor, Tanam of Keriel (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.Of8fDe15OZuKuq7B]{[I5] Precentor Father Tanam}) holds choir practice here. The stairs lead to a storage room that the Serolan wants cleared.</p>",
+        "format": 1
+      },
+      "_id": "9HiarfnaSwtz5iWS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qsB5VzLzehse5keL.9HiarfnaSwtz5iWS"
+    },
+    {
+      "name": "[A5] Meeting Room",
+      "type": "text",
+      "text": {
+        "content": "<p>This room is used as a meeting room for the matakea or a classroom for the ashesa. There is no permanent furniture here. Gatherers either bring something to sit on or must content themselves with the floor.</p>",
+        "format": 1
+      },
+      "_id": "heTZwkULBW14odmz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!qsB5VzLzehse5keL.heTZwkULBW14odmz"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.qsB5VzLzehse5keL"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923402,
+    "modifiedTime": 1659205923402,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "qsB5VzLzehse5keL",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!qsB5VzLzehse5keL"
+}

@@ -1,0 +1,243 @@
+{
+  "name": "Abbey - Old Cloister",
+  "pages": [
+    {
+      "name": "[K] Masters’ House",
+      "type": "text",
+      "text": {
+        "content": "<p>This was the original manor’s stable but has been continually renovated for other purposes as the abbey grew. Now the narrow building houses the temple’s four masters.</p>\n<ul>\n<li>@UUID[JournalEntry.EFyzRsHMwhCLkLEM.JournalEntryPage.nRXlEBLxRNQ8DPVO]{[K1] Menoran (Master of the Fighting Order)}</li>\n<li>@UUID[JournalEntry.EFyzRsHMwhCLkLEM.JournalEntryPage.1nCrbcwtIWJJ05JU]{[K2] Valaran (Mistress of Acolytes)}</li>\n<li>@UUID[JournalEntry.EFyzRsHMwhCLkLEM.JournalEntryPage.2DigLPj3svWwW0tO]{[K3] Suloran (Mistress of Archives)}</li>\n<li>@UUID[JournalEntry.EFyzRsHMwhCLkLEM.JournalEntryPage.2blx8dFSuZi6b91B]{[K4] Obasaran (Secular Representative)}</li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "1JkkYcgw8oKeqLTS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.1JkkYcgw8oKeqLTS"
+    },
+    {
+      "name": "[L] Temple of Calsten",
+      "type": "text",
+      "text": {
+        "content": "<p>The old cloister’s temple is dedicated to Calsten, the first king of Serelind. The chapel’s walls are covered with frescoes in white and red, with a sword device to commemorate Calsten. There are three statues in the nave. The first (situated to the left of the altar) is of Sharin Lomar, the abbey’s first Serolan. He is depicted as a middle aged man carrying a model of the Temple of Calsten and a Serolan’s staff.</p>\n<p>The central statue is of King Calsten. He is shown in full armor with the crown of Serelind on his head. He holds a replica of his legendary sword aloft with one hand. In the other, he carries the horn with which he rallied his army in the battles fought to forge Serelind. This horn, which has been in the abbey’s possession for hundreds of years, is covered in runes. Too large to be from any Hârnic breed of cattle, the horn is reputed to have been made from a mystical beast that Calsten slew during one of his quests.</p>\n<p>The apse has an elaborate tapestry behind the statue of Calsten that tells the legend of his reign. Behind the tapestry, all 33 of the abbey’s former Serolans are entombed in the floor. Since this space is small, the bodies are buried vertically (“standing up”) under marble markers.</p>\n<p>The easternmost statue is of Serolan Iberry of Kabise. He led the expedition to find the remains of Saint Syrele and is depicted as an old man holding a model of the temple of Saint Syrele.</p>\n<p>This temple is used for the Alamirata, services that are restricted to the clergy. The Serolan always leads the service during the Alamirata. It has the same form as the Soratir but the sermons and readings deal with more theological matters.</p>",
+        "format": 1
+      },
+      "_id": "sZplMkLsAU7dw3mm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.sZplMkLsAU7dw3mm"
+    },
+    {
+      "name": "[M] The Serolan’s Tower",
+      "type": "text",
+      "text": {
+        "content": "<p>This tower was once the manor house. It is a squat two story rectangular tower.</p>\n<ul>\n<li>@UUID[JournalEntry.Jup6YDQAVVEdV1Z2.JournalEntryPage.B3cyehxb39Tmng6R]{[M1] Servants Quarters}</li>\n<li>@UUID[JournalEntry.Jup6YDQAVVEdV1Z2.JournalEntryPage.VojSOaeCRS48iSXX]{[M2] Kitchen}</li>\n<li>@UUID[JournalEntry.Jup6YDQAVVEdV1Z2.JournalEntryPage.huBLBMYExa50Oqe8]{[M3] Common Room}</li>\n<li>@UUID[JournalEntry.Jup6YDQAVVEdV1Z2.JournalEntryPage.88lPLVlC6oxtQfGl]{[M4] Serolan's Personal Quarters}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "eTUUiKD625Xgta0J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.eTUUiKD625Xgta0J"
+    },
+    {
+      "name": "[N] The Bakehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>Jabin Dyren and her helpers begin their labors soon after midnight, starting fires and kneading dough, so that the abbey’s population has bread for their meals.</p>\n<p>This building is also used as a bathhouse. The ovens’ flames heat water, which is poured into large wooden tubs for bathing.</p>",
+        "format": 1
+      },
+      "_id": "Wm1XRwGBsLfbMXzx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.Wm1XRwGBsLfbMXzx"
+    },
+    {
+      "name": "[O] The Brewhouse",
+      "type": "text",
+      "text": {
+        "content": "<p>Father Firain (see @UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.C3RzrFBhCkws2oBM]{[I4] Host Father Firain}) brews ales and beers for local consumption in this cramped building. Most of his workspace is devoted to the distillation and aging of the abbey’s rightfully renowned apple brandy, called helvery.</p>",
+        "format": 1
+      },
+      "_id": "LpRRKLpmArV67Q09",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.LpRRKLpmArV67Q09"
+    },
+    {
+      "name": "[P] The Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>The barn stores locally produced goods as well as items that have been tithed to the abbey. Mother Morvin (see @UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.Su9ngWcBd3WPPBZM]{[B7] Mother Morvin - Overseer}) is responsible for accounting for everything in this storage area, a charge she takes seriously.</p>",
+        "format": 1
+      },
+      "_id": "wT1FvZMNcqfE67OU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.wT1FvZMNcqfE67OU"
+    },
+    {
+      "name": "[Q] The Stables",
+      "type": "text",
+      "text": {
+        "content": "<ul>\n<li>@UUID[JournalEntry.TbfaYKB1PLNCEaIZ.JournalEntryPage.4Wz8ZyJCaN1o6p7T]{[Q1] Lower Stables}</li>\n<li>@UUID[JournalEntry.TbfaYKB1PLNCEaIZ.JournalEntryPage.Xh4i0vZil1PcAusv]{[Q2] Upper Stables}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "hlVBUFB1AzKB1Hzr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.hlVBUFB1AzKB1Hzr"
+    },
+    {
+      "name": "[R] The Old Gatehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>The old gatehouse is one of the remnants of the original abbey. </p>\n<ul>\n<li>@UUID[JournalEntry.x9DfADLavZy2mt9P.JournalEntryPage.HJOERhyvmTHSHlAm]{[R1] Old Gate}</li>\n<li>@UUID[JournalEntry.x9DfADLavZy2mt9P.JournalEntryPage.094dGzvKxJyVSa5V]{[R2] Old Watchroom}</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "SzqEHGkZm5Y4JhcF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!uZoiuq2nJiiH5t1E.SzqEHGkZm5Y4JhcF"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.uZoiuq2nJiiH5t1E"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923404,
+    "modifiedTime": 1659205923404,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "uZoiuq2nJiiH5t1E",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!uZoiuq2nJiiH5t1E"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Abbey - Stables",
+  "pages": [
+    {
+      "name": "[Q1] Lower Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>The ostler stables the Serolan’s palfreys and Menoran’s two warhorses here. Guests’ mounts may be stabled here if room is available.</p>",
+        "format": 1
+      },
+      "_id": "4Wz8ZyJCaN1o6p7T",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!TbfaYKB1PLNCEaIZ.4Wz8ZyJCaN1o6p7T"
+    },
+    {
+      "name": "[Q2] Upper Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>The second floor is used as a practice hall in inclement weather. During large festivals, the Serolan invites special guests to lodge here.</p>",
+        "format": 1
+      },
+      "_id": "Xh4i0vZil1PcAusv",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!TbfaYKB1PLNCEaIZ.Xh4i0vZil1PcAusv"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.TbfaYKB1PLNCEaIZ"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923374,
+    "modifiedTime": 1659205923374,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "TbfaYKB1PLNCEaIZ",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!TbfaYKB1PLNCEaIZ"
+}

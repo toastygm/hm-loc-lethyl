@@ -1,0 +1,269 @@
+{
+  "name": "Abbey - Female Matakea’s Quarters",
+  "pages": [
+    {
+      "name": "[B1] Empty",
+      "type": "text",
+      "text": {
+        "content": "<p>This room is currently unoccupied.</p>",
+        "format": 1
+      },
+      "_id": "Du5HKYawprYCiRM2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.Du5HKYawprYCiRM2"
+    },
+    {
+      "name": "[B2] Herbalist",
+      "type": "text",
+      "text": {
+        "content": "<p>The herbalist, Laerl, is a small, slight blonde. She was recently caught inflagrante delicto with one of the ashesa by the precentor, Tanam (@UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.Of8fDe15OZuKuq7B]{[I5] Precentor Father Tanam}). Timid under normal circumstances, she is scared to leave the abbey and is willing to submit to Tanam’s demands so that she can stay. Laerl has only begun to consider her real feelings toward the ashesa Rurae (@UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.2skrhhacueTut4tI]{[B8] Dormitory - Acolytes}) and would be truly afraid if she knew what Rurae was capable of.</p>",
+        "format": 1
+      },
+      "_id": "AYucaXi4Kgt91E19",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.AYucaXi4Kgt91E19"
+    },
+    {
+      "name": "[B3] Mother Harquey",
+      "type": "text",
+      "text": {
+        "content": "<p>The sacristan of the temple of Calsten (see @UUID[JournalEntry.uZoiuq2nJiiH5t1E.JournalEntryPage.sZplMkLsAU7dw3mm]{[L] Temple of Calsten}), Mother Harquey of Kail, is truly devout. She spends her days caring for her small temple and praying. The walls of the abbey encompass her world and her naïveté makes her appear childlike. The plain woman is especially devoted to the statue of Calsten that stands in the chapel nave. Sometimes she dreams of what it might have been like if she had been his queen.</p>",
+        "format": 1
+      },
+      "_id": "yboI6KfInjiRXwdt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.yboI6KfInjiRXwdt"
+    },
+    {
+      "name": "[B4] Mother Grorin",
+      "type": "text",
+      "text": {
+        "content": "<p>The other sacristan, Grorin of Arion, is old and becoming senile. She often sits in front of the altar of Saint Syrele (see @UUID[JournalEntry.kGb05EHf1SvNAPn9.JournalEntryPage.Q6v8y2GQReF3zLjA]{[A] Chapel of St. Syrele}) and stares at the tapestries as if the figures were acting out the tale. She is very kind to everyone and will not hesitate to put aside whatever she is doing to help another person. The ashesa adore her, calling her “Grandmother,” as she frequently intercedes with the Valaran on their behalf. She has been at the abbey longer than anyone else and she has earned the respect of the Serolan. If given proof of the precentor’s blackmail scheme, Mother Grorin would involve the Serolan immediately, counsel that the girls be punished lightly and have the precentor cast out of the abbey for his sins.</p>",
+        "format": 1
+      },
+      "_id": "JddXk1UdFToRuFZn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.JddXk1UdFToRuFZn"
+    },
+    {
+      "name": "[B5] Mother Makal - Cellarer",
+      "type": "text",
+      "text": {
+        "content": "<p>Makal of Taren is the abbey’s cellarer. The cellarer is responsible for the sustenance of the abbey, a job that includes everything from kitchens to the wine cellar. While possibly the beauty of the abbey, she is a terrible organizer. She is completely reliant on the abbey’s cook Aratha Urdel (see @UUID[JournalEntry.rQqIKK8mnN4a4z1Z.JournalEntryPage.EqwRjydH3yAAcAwg]{[H2] Bonded Clothier Garal Urdel}), to keep the community fed.</p>\n<p>Over the last six months, Makal has become Sir Taryn Indama’s lover. She met the Bailiff of Sezaze on one of his hunting trips with the Serolan and is flattered that he is now making himself a frequent visitor to the temple so that he can see more of her.</p>",
+        "format": 1
+      },
+      "_id": "YHP518xXEo44I8CY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.YHP518xXEo44I8CY"
+    },
+    {
+      "name": "[B6] Mother Modan - Prior",
+      "type": "text",
+      "text": {
+        "content": "<p>Modan Aten is the prior, the matakea responsible for the daily operations of the abbey. She is a tall, bony woman whose energy seems unending. She constantly pushes the other priests and the ashesa to complete their tasks, accepting no excuses for less than full performance. She is a model of piety and her life is dedicated to the twin idols of the abbey and Larani.</p>",
+        "format": 1
+      },
+      "_id": "FAhybMiKi3JTWeRk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.FAhybMiKi3JTWeRk"
+    },
+    {
+      "name": "[B7] Mother Morvin - Overseer",
+      "type": "text",
+      "text": {
+        "content": "<p>Morvin of Korela is employed as an overseer for the abbey’s holdings. She is charged with visiting the Lady of Paladins chapters at Hakstyn and Jenkald, as well as the manor of Denwald, to look after their accounts. Morvin is a tall, happy-go-lucky woman who is well liked by all. She is a very attractive blonde and has become adept at refusing the advances of men without hurting their feelings. Pasbain Tobris, a pale, freckle-faced ashesa, has been completely in love with her ever since she first spoke to him.</p>",
+        "format": 1
+      },
+      "_id": "Su9ngWcBd3WPPBZM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.Su9ngWcBd3WPPBZM"
+    },
+    {
+      "name": "[B8] Dormitory - Acolytes",
+      "type": "text",
+      "text": {
+        "content": "<p>This dormitory houses the abbey’s female acolytes in a cramped room.</p>\n<ol style=\"list-style-type:lower-alpha\">\n<li>Caught in a compromising position by the precentor, the ashesa Rurae of Sturen, is tired of Father Tanam’s demands (see @UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.AYucaXi4Kgt91E19]{[B2] Herbalist} and @UUID[JournalEntry.bnBWlFJBTpHrgk89.JournalEntryPage.CNwnUbCbolbzCeO7]{[G5] Lokron Kressenta}). The petite girl is planning to murder the priest and then escape with her lover, the herbalist (see @UUID[JournalEntry.Tln9sfujpNZrxUTK.JournalEntryPage.RfhWROdDPLGHIRTq]{[F1] The Herbarium}). Rurae is completely devoted to the older woman, as Laerl is the first person to treat her with any kind of dignity and respect.</li>\n<li>Terelyn of Koparen was sent to the church by her wicked and greedy stepmother. Her father was lord of Douny in Semethshire before his death. When Terelyn’s father died, her stepmother wanted the girl out of the way so that Terelyn’s stepsister would inherit. Terelyn is very unsuited to the church and is contemplating escaping with Kardis (see @UUID[JournalEntry.bdtDRmVGQsY135ma.JournalEntryPage.4AEaz19AwYnBmtQp]{[I8] Male Acolytes' Dormitory}). She has seen him hiding things in the graveyard and is willing to gamble everything to escape the abbey. She has written to her uncle, the Bailiff of Kinel, for his advice but has not received his reply yet.</li>\n<li>Varance Ebriel chose the life of a priestess to avoid a marriage to a rich, old, man but now finds herself stifled by the cloister’s rigid schedule. She helps Mother Harquey (see @UUID[JournalEntry.W2ZsqvVGz3YSwp7m.JournalEntryPage.yboI6KfInjiRXwdt]{[B3] Mother Harquey}) in the temple of Calsten and often daydreams that a shining knight will arrive to take her away.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "2skrhhacueTut4tI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.2skrhhacueTut4tI"
+    },
+    {
+      "name": "[B9] Latrine",
+      "type": "text",
+      "text": {
+        "content": "<p>Female Matakea's latrine.</p>",
+        "format": 1
+      },
+      "_id": "xGA1ZY5NtrTFqhpt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!W2ZsqvVGz3YSwp7m.xGA1ZY5NtrTFqhpt"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.W2ZsqvVGz3YSwp7m"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923378,
+    "modifiedTime": 1659205923378,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "W2ZsqvVGz3YSwp7m",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!W2ZsqvVGz3YSwp7m"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Abbey - Serolan's Tower",
+  "pages": [
+    {
+      "name": "[M1] Servants Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The Serolan’s personal servants (Aratha, Gerl, and Toral) live at one end of the ground floor; all dedicated, grouchy old bachelors.</p>",
+        "format": 1
+      },
+      "_id": "B3cyehxb39Tmng6R",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Jup6YDQAVVEdV1Z2.B3cyehxb39Tmng6R"
+    },
+    {
+      "name": "[M2] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>A storeroom and a small kitchen occupy the bottom floor of the Serolan's Tower.</p>",
+        "format": 1
+      },
+      "_id": "VojSOaeCRS48iSXX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Jup6YDQAVVEdV1Z2.VojSOaeCRS48iSXX"
+    },
+    {
+      "name": "[M3] Common Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Reverend Father Valric meets with special guests and holds meetings with the Masters in this common room.</p>",
+        "format": 1
+      },
+      "_id": "huBLBMYExa50Oqe8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Jup6YDQAVVEdV1Z2.huBLBMYExa50Oqe8"
+    },
+    {
+      "name": "[M4] Serolan's Personal Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The Serolan’s personal quarters contains the abbey’s treasury and his private chapel.</p>",
+        "format": 1
+      },
+      "_id": "88lPLVlC6oxtQfGl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Jup6YDQAVVEdV1Z2.88lPLVlC6oxtQfGl"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.Jup6YDQAVVEdV1Z2"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659205923374,
+    "modifiedTime": 1659205923374,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Jup6YDQAVVEdV1Z2",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Jup6YDQAVVEdV1Z2"
+}
