@@ -2,7 +2,7 @@
   "id": "hm-loc-lethyl",
   "title": "Lethyl Abbey",
   "description": "A prosperous, if slightly rustic, Laranian abbey bordered by the dark Kirsta Forest on the northern border of Fethael Hundred",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "bugs": "https://github.com/toastygm/hm-loc-lethyl/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -30,9 +30,19 @@
       }
     ]
   },
+  "packFolders": [
+    {
+      "name": "Lethyl Abbey",
+      "sorting": "m",
+      "packs": [
+        "scenes",
+        "journals"
+      ]
+    }
+  ],
   "packs": [
     {
-      "label": "Lethyl - Scenes",
+      "label": "Scenes",
       "name": "scenes",
       "path": "packs/scenes",
       "type": "Scene",
@@ -43,7 +53,7 @@
       }
     },
     {
-      "label": "Lethyl - Journals",
+      "label": "Journals",
       "name": "journals",
       "path": "packs/journals",
       "type": "JournalEntry",
@@ -56,7 +66,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-lethyl/",
   "manifest": "https://github.com/toastygm/hm-loc-lethyl/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-lethyl/releases/download/v1.2.0/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-lethyl/releases/download/v1.2.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
