@@ -1476,7 +1476,7 @@
     }
   },
   "background": {
-    "src": "modules/hm-loc-lethyl/assets/scenes/lethyl-village.png",
+    "src": "modules/hm-loc-lethyl/assets/scenes/lethyl-village.webp",
     "offsetX": 16,
     "offsetY": 4,
     "scaleX": 1,
